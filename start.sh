@@ -1,4 +1,4 @@
-export MAIL_USERNAME='kevinkipkemoi'
+    export MAIL_USERNAME='kevin.kipkemoi@student.moringaschool.com'
 export MAIL_PASSWORD='pitchperfect2022'
 SECRETE_KEY='no474tghff8735757t5hf75t77t8'
 SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://moringa:kimachas@localhost/pitch'
